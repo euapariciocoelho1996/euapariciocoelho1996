@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @euapariciocoelho1996
-- 👀 I’m interested in Flutter and in the future in other development tools
+- 👀 I’m interested in Flutter, JavaScript and in the future in other development tools
 - 🌱 I’m currently learning Mobile development 
 - 📫 How to reach me faparicionc@gmail.com
 
