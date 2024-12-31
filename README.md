@@ -1,5 +1,6 @@
-## Hey there, I'm Francisco Aparício!!
+## 🧑🏻‍💻 Hey there, I'm Francisco Aparício!!
 
+**`Mobile Developer`**
 <html>
   <div>
     <a href="https://beacons.ai/euapariciocoelho1996">
@@ -8,6 +9,7 @@
 </html>
       
 ## 
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Apa-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="Apa-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
