@@ -9,7 +9,7 @@
 </html>
       
 ## 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Apa-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="Apa-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
