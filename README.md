@@ -1,7 +1,7 @@
 <h1 align="center">🧑🏻‍💻 Francisco Aparício</h1>
 
 <p align="center">
-  <i>Mobile Developer | Flutter Enthusiast | Code Dreamer 💭</i>
+  <i>Mobile Developer • Fullstack Dev • Code Dreamer 💭</i>
 </p>
 
 <p align="center">
@@ -48,6 +48,12 @@
   <a href="https://www.linkedin.com/in/francisco-aparicio-785847299/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+  <br />
+  <i>"Code. Test. Deploy. Repeat."</i>
 </p>
 
 
