@@ -4,11 +4,7 @@
   <i>Mobile Developer • Fullstack Dev • Code Dreamer 💭</i>
 </p>
 
-<p align="center">
-  <a href="https://beacons.ai/euapariciocoelho1996">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euapariciocoelho1996&layout=compact&langs_count=8&theme=radical" />
-  </a>
-</p>
+
 
 ---
 
