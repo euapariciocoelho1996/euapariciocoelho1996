@@ -1,7 +1,7 @@
 <h1 align="center">🧑🏻‍💻 Francisco Aparício</h1>
 
 <p align="center">
-  <i>Mobile Developer • Fullstack Dev • Code Dreamer 💭</i>
+  <i>Fullstack Dev • Code Dreamer 💭</i>
 </p>
 
 
@@ -15,7 +15,7 @@
   <img title="HTML5" alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img title="CSS3" alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img title="JavaScript" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />    
+  <img title="TypeScript" alt="TypeScript" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"">
   <img title="React" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 
   <!-- Mobile -->
