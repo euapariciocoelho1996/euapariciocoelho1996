@@ -4,7 +4,7 @@
 
 Hi, I'm Francisco Aparício, a Fullstack Developer from Pernambuco, Brazil. I hold a Bachelor's degree in Information Systems and I'm passionate about transforming ideas into code. I enjoy exploring new technologies, building impactful applications, and sharing knowledge.  
 
-You can check out more about me on my [LinkedIn](https://www.linkedin.com/in/franciscoaparicio/).
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/franciscoaparicio/">
