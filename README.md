@@ -32,6 +32,7 @@ Olá! Seja bem-vindo ao meu portfólio. Sou Aparício Coelho, bacharel em Sistem
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
 <br/>
+<br/>
 
 ## 📫 Contato
 
