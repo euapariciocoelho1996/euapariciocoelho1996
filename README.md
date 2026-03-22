@@ -37,9 +37,9 @@ Olá! Seja bem-vindo ao meu portfólio. Sou Aparício Coelho, bacharel em Sistem
 
 ## 📫 Contato
 
-- 🌐 Website: [shre.ink/LJDP](https://shre.ink/LJDP)  
-- 📧 E-mail: faparicionc@gmail.com  
-- 🧑‍💼 LinkedIn: [linkedin.com/in/franciscoaparicio](https://www.linkedin.com/in/franciscoaparicio)  
+- 🌐 Website: [shre.ink/LJDP](https://shre.ink/LJDP)
+- 📧 E-mail: faparicionc@gmail.com
+- 🧑‍💼 LinkedIn: [linkedin.com/in/franciscoaparicio](https://www.linkedin.com/in/franciscoaparicio)
 - 📷 Instagram: [instagram.com/euapariciocoelho_](https://www.instagram.com/euapariciocoelho_/)
 
 ---
